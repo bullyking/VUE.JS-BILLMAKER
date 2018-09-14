@@ -1,0 +1,31 @@
+.t-align-c {
+  text-align: center;
+}
+
+.top-sp2 {
+  padding-top: 2%;
+}
+
+.top-sp5 {
+  padding-top: 5%;
+}
+
+.bd-line {
+  border-bottom: 2px solid gray;
+}
+
+.jb-img {
+  background-image: url(assets/imgs/coffee-beans.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: #fff;
+}
+
+.jb-index {
+  background-image: url(assets/imgs/woman-nature.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: #fff;
+}
